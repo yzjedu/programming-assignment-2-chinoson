@@ -1,6 +1,10 @@
 # Step 0: Intro comment here
-# Henderson Fryer
-# Week 2 programming assignment, 8/3/2024
+# Programmer: Henderson Fryer
+# Course: CS701/GB-731, Dr. Yalew
+# Date: 8/3/2024
+# Programming Assignment: 2
+# Program Inputs: Month (as a number in the range 1 through 12), Year
+# Program Outputs: Number of days in the given month
 
 def main():
 
